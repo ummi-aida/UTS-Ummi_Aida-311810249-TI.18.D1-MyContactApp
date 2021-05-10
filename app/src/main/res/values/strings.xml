@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyContactApp</string>
+    <string name="fragment_web">Visit My Website</string>
+    <string name="fragment_location">Come to My Location</string>
+    <string name="call_fragment">Call Me</string>
+    <string name="email_fragment">Email Me For More Info</string>
+</resources>
